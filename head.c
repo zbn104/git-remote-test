@@ -2,9 +2,7 @@
 int main()
 {
 
-    printf("test3\n");
-
-    printf("test4\n");
+    printf("test\n");
 
     printf("Hello\n");
     return 0;
